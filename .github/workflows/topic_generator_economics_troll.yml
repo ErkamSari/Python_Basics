@@ -1,0 +1,5 @@
+print("Hello fellow researcher!\nIf you want a research idea that's worth nothing, you're in the right place")
+a = input("Let's start. What is your favorite economic variable?\n")
+b = input("OK. So, what do you think is the least important social variable?\n")
+c = input("Last question. Which methodology you hate the most?\n")
+print("The relationship between " + a + " and " + b + " : Evidence from " + c + " analysis\nHere's the title of your next paper; probably going to be desk rejected")
